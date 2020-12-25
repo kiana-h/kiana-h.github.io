@@ -38,7 +38,7 @@ export const codeData = [
     ],
     photos: ["live-map-.gif"],
     github: "https://github.com/kiana-h/twitt-stream-er",
-    live: "http://twitt-stream-er.herokuapp.com/",
+    live: "https://tweetstreamer.com/",
   },
   {
     title: "Covid Killer",
